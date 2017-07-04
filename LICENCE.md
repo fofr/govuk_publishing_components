@@ -1,4 +1,4 @@
-Copyright 2017 Paul Hayes
+Copyright (c) 2017 Crown Copyright (Government Digital Service)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
