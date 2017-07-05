@@ -9,9 +9,8 @@ Gem::Specification.new do |s|
   s.version     = GovukPublishingComponents::VERSION
   s.authors     = ["Paul Hayes"]
   s.email       = ["fofr@users.noreply.github.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of GovukPublishingComponents."
-  s.description = "TODO: Description of GovukPublishingComponents."
+  s.summary     = "GOV.UK Publishing Components and documentation"
+  s.description = "GOV.UK Publishing Components and documentation"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
