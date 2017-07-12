@@ -1,6 +1,10 @@
 $prism-background: #f5f2f0;
 $border-color: #ccc;
 
+.govuk-component-guide-wrapper {
+  padding-bottom: $gutter * 2;
+}
+
 .component-list {
   li {
     @include core-19;
